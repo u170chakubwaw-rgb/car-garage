@@ -1,0 +1,89 @@
+const carData = [
+  {
+    id: 1,
+    name: "porsche",
+    brand: "panamera",
+    isElectric: false,
+    transmission: "automatic",
+  },
+
+  {
+    id: 2,
+    name: "A4",
+    brand: "Audi",
+    isElectric: false,
+    transmission: "Automatic",
+  },
+  {
+    id: 3,
+    name: "Model 3",
+    brand: "Tesla",
+    isElectric: true,
+    transmission: "Automatic",
+  },
+  {
+    id: 4,
+    name: "Series 3",
+    brand: "BMW",
+    isElectric: false,
+    transmission: "Automatic",
+  },
+  {
+    id: 5,
+    name: "Mustang Mach-E",
+    brand: "Ford",
+    isElectric: true,
+    transmission: "Automatic",
+  },
+  {
+    id: 6,
+    name: "Civic",
+    brand: "Honda",
+    isElectric: false,
+    transmission: "Manualna",
+  },
+  {
+    id: 7,
+    name: "Taycan",
+    brand: "Porsche",
+    isElectric: true,
+    transmission: "Automatic",
+  },
+  {
+    id: 8,
+    name: "Golf",
+    brand: "Volkswagen",
+    isElectric: false,
+    transmission: "Manualna",
+  },
+  {
+    id: 9,
+    name: "Leaf",
+    brand: "Nissan",
+    isElectric: true,
+    transmission: "Automatic",
+  },
+  {
+    id: 10,
+    name: "CX-5",
+    brand: "Mazda",
+    isElectric: false,
+    transmission: "Automatic",
+  },
+  {
+    id: 11,
+    name: "IONIQ 5",
+    brand: "Hyundai",
+    isElectric: true,
+    transmission: "Automatic",
+  },
+  {
+    id: 12,
+    name: "Challenger",
+    brand: "Dodge",
+    isElectric: false,
+    transmission: "Manualna",
+  },
+];
+
+export default carData;
