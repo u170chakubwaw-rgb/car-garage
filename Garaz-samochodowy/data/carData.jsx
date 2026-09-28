@@ -6,7 +6,6 @@ const carData = [
     isElectric: false,
     transmission: "automatic",
   },
-
   {
     id: 2,
     name: "A4",
@@ -85,5 +84,4 @@ const carData = [
     transmission: "Manualna",
   },
 ];
-
 export default carData;
